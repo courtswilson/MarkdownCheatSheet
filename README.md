@@ -50,3 +50,7 @@ A cheat sheet to refer to when creating README files in GitHub repositories and 
 
 ## Other Notes
 Most markdown files support the original basic syntax which was outlined in the original *Markdown Design Document*. There can be minor variations and differences between the range of [Markdown Processors](https://github.com/markdown/markdown.github.com/wiki/Implementations), this cheat sheet will attempt to stick to the most generic markdown syntax possible (particulary those which will work with GitHub repositories). 
+
+### References
+This program makes use of information and websites referenced below:
+ - [markdownguide.org](https://www.markdownguide.org/)
