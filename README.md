@@ -9,6 +9,11 @@ A cheat sheet to refer to when creating README files in GitHub repositories and 
 | [Paragraph](#paragraphs) | `This is a paragraph. Just type text as normal.` | This is a paragraph. Just type text as normal. |
 | [Bold Text](#bold-text) | `**This text is bold**` | **This text is bold** |
 | [Italicised Text](#italicised-text) | `*This text is italicised*` | *This text is italicised* |
+| [Line Break](#line-breaks) | `<two or more spaces> <return character>` | |
+| [Blockquote](#blockquotes) | `> This is a blockquote` | ... |
+| [List](#lists) | `1. This is the first item.` <br> `2. This is the second item` | <ol> <li>This is the first item.</li> <li>This is the second item.</li> </ol> |
+| [Code](#code) | <code>\`This is some code...`</code> | `This is some code...` |
+| [Horizontal Rule](#horizontal-rules) | `---` | ____________________________ |
 
 ## More Information
 
