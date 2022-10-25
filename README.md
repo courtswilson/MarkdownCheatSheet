@@ -23,9 +23,19 @@ A cheat sheet to refer to when creating README files in GitHub repositories and 
 
 ### Emphasis
 
+There are multiple ways one can emphasise text, through making it bold and making it italic. 
+
 #### Bold Text
 
+To make text **bold**, as illustrated in the cheat sheet table, add two astericks before and after the word, text, or phrase you want to emphasise. If you wanted to make specific characters of a word bold, simply add the astericks before and after the character with no spaces. 
+
+It is also possible to make text bold by using underscores instead of astericks. The same way you use astericks, you can use two underscores on either side of the word, text, or phrase you wish to emphasise. However, it is best to practice emphasising text using astericks for compatibility reasons. 
+
 #### Italicised Text
+
+To present text in *italics*, as illustratied in the cheat sheet table, add a single asterick before and after the word, text, or phrase you want to emphasise. If you wanted to make a specific character within a word italic, simply add the asterick before and after the character with no spaces. 
+
+It is also possible to make text italic by using underscores instead of astericks. The same way you use a single asterick on each side of the text you want empahsised, you can use an underscore on each side of the word, text, or phrase you wish to emphasise. However, it is best to proactice emphasising text using astericks for compatibility reasons. 
 
 ### Line Breaks
 
