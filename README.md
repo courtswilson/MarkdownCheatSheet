@@ -1,4 +1,5 @@
 # Markdown Cheat Sheet
+
 A cheat sheet to refer to when creating README files in GitHub repositories and other markdown files. It also includes a more in-depth description of syntax where relevant, such as best practices. 
 
 ## Cheat Sheet
@@ -18,6 +19,12 @@ A cheat sheet to refer to when creating README files in GitHub repositories and 
 ## More Information
 
 ### Headings
+
+Headings are created by adding one or multiple hashtags (#) infront of the text, word, or phrase to be made into a heading. The number of hashtags which prepend the intended heading reflects the heading level.
+
+For example, a to create a heading with a level 3, prepend the text, word, or phrase with three hashtags.
+
+It is good practice to leave a space between the prepending hastags and the text, word, or phrase to be made into a heading as not all markdown applications agree on how to handle a missing space between the hashtag and phrase. For compatibility, you should also practive putting blank lines before and after headings. 
 
 ### Paragraphs
 
