@@ -28,6 +28,10 @@ It is good practice to leave a space between the prepending hastags and the text
 
 ### Paragraphs
 
+To create paragraphs in your markdown files, you type normally, leaving a blank line between paragraphs ro lines of text you want separated. 
+
+Unless the paragraph is part of a list, don't indent the paragraph with tabs or spaces. If you need to indent a paragraph, it is best to use an editor which supports tabs to indent a paragraph. If your markdown editor supports HTML, you can use teh HTML entity for non-breaking space (`&nbsp`).
+
 ### Emphasis
 
 There are multiple ways one can emphasise text, through making it bold and making it italic. 
