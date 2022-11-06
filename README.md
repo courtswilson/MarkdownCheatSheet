@@ -50,6 +50,10 @@ It is also possible to make text italic by using underscores instead of asterick
 
 ### Line Breaks
 
+To create a line break or start writing on a new line in a markdown document, end a line with two or more spaces followed by a return (ENTER) character. 
+
+Most Markdown applications support lines breaks but just having two or more spaces at the end of a line (this is also referred to as "trailing whitespace"), therefore, it is important to be careful with spacing after the end of a sentence or piece of text if you don't want a line break after it, particularly because it can be hard to see if you have trailing whitespace. 
+
 ### Blockquotes
 
 ### Lists
