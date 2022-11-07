@@ -56,6 +56,14 @@ Most Markdown applications support lines breaks but just having two or more spac
 
 ### Blockquotes
 
+To insert a blockquote in a Markdown Document, you add a '>' character to the front of a paragraph (i.e., the text you want to include in the blockquote). 
+
+Blockquotes can be multiple paragraphs in length. To create a blockquote consisting of multiple paragraphs, simply place the '>' character on the line(s) between the paragraphs to be included as well as infront of the paragraphs to be included. 
+
+It is good practice to have a space between the '>' character and the text you want in a blockquote. Make sure that the blockquote is on a new line. 
+
+> A blockquote will look like this. 
+
 ### Lists
 
 ### Code
