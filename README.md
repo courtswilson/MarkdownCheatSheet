@@ -68,6 +68,18 @@ It is good practice to have a space between the '>' character and the text you w
 
 ### Code
 
+To denote a word or phrase as code in a Markdown document, enclose the word or phrase with backticks (\`). A code can be put on a single line, by itself, or it can in the `middle` of a paragraph. 
+
+To create a block of code in a Markdown document, indent all lines to be included in the block by at least four spaces or a tab. A code block will look like the example below:
+
+    <html>
+        <head>
+            ** CODE **
+        </head>
+    </html>
+
+It is good practice to leave a blank line between code blocks (including a single line of code) and other text in a Markdown File. 
+
 ### Horizontal Rules
 
 ### Links
